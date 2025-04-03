@@ -96,3 +96,4 @@
 [03Apr2025 02:33:00.389] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 24752 ms
 [03Apr2025 02:33:00.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (31.047s)! For help, type "help"
 [03Apr2025 02:33:00.408] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[03Apr2025 02:43:49.065] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2df9a633[id=<null>,name=xSamSLV_,properties={},legacy=false] (/127.50.10.110:51125) lost connection: Disconnected
