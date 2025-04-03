@@ -1,0 +1,80 @@
+{
+  "type": "pfm:dynamic_furniture",
+  "group": "kitchen",
+  "supportedVariants": [
+    "minecraft:oak",
+    "minecraft:bamboo",
+    "minecraft:spruce",
+    "minecraft:birch",
+    "minecraft:jungle",
+    "minecraft:acacia",
+    "minecraft:cherry",
+    "minecraft:dark_oak",
+    "minecraft:mangrove",
+    "minecraft:crimson",
+    "minecraft:warped",
+    "twilightforest:twilight_oak",
+    "twilightforest:canopy",
+    "twilightforest:mangrove",
+    "twilightforest:dark",
+    "twilightforest:time",
+    "twilightforest:transformation",
+    "twilightforest:mining",
+    "twilightforest:sorting",
+    "biomesoplenty:fir",
+    "biomesoplenty:pine",
+    "biomesoplenty:maple",
+    "biomesoplenty:redwood",
+    "biomesoplenty:mahogany",
+    "biomesoplenty:jacaranda",
+    "biomesoplenty:palm",
+    "biomesoplenty:willow",
+    "biomesoplenty:dead",
+    "biomesoplenty:magic",
+    "biomesoplenty:umbran",
+    "biomesoplenty:hellbark",
+    "biomesoplenty:empyreal",
+    "iceandfire:dreadwood",
+    "minecraft:stone",
+    "minecraft:calcite",
+    "minecraft:light_wood",
+    "minecraft:dark_wood",
+    "minecraft:pink_wood",
+    "minecraft:netherite",
+    "minecraft:granite",
+    "minecraft:diorite",
+    "minecraft:andesite",
+    "minecraft:basalt",
+    "minecraft:blackstone",
+    "minecraft:deepslate",
+    "unusualend:gneiss",
+    "unusualend:gloopstone",
+    "unusualend:gloopslate",
+    "unusualend:warped_stone",
+    ":dark_concrete",
+    ":concrete",
+    ":smooth_stone",
+    ":deepslate_tile",
+    ":granite_terracotta",
+    ":andesite_oak",
+    ":deepslate_dark_oak",
+    ":blackstone_crimson"
+  ],
+  "ingredients": {
+    "vanillaIngredients": [
+      {
+        "item": "minecraft:iron_ingot"
+      },
+      {
+        "item": "minecraft:bucket"
+      }
+    ],
+    "variantChildren": {
+      "secondary": 2,
+      "base": 5
+    }
+  },
+  "result": {
+    "outputClass": "KitchenSinkBlock"
+  }
+}

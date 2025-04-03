@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "name": "pink_wood_table_natural",
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:pink_wood_table_natural"
+        }
+      ]
+    }
+  ]
+}

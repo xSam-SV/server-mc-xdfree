@@ -1,0 +1,24 @@
+{
+  "pools": [
+    {
+      "name": "mining_twilightforest_light_blue_classic_bed",
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "pfm:mining_twilightforest_light_blue_classic_bed",
+              "properties": {
+                "part": "head"
+              }
+            }
+          ],
+          "name": "pfm:mining_twilightforest_light_blue_classic_bed"
+        }
+      ]
+    }
+  ]
+}

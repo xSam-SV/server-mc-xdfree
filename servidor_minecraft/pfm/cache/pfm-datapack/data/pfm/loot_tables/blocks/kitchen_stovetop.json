@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "name": "kitchen_stovetop",
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:kitchen_stovetop"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "name": "basic_shower_head",
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:basic_shower_head"
+        }
+      ]
+    }
+  ]
+}

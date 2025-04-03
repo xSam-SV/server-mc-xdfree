@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "name": "palm_biomesoplenty_log_stool",
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:palm_biomesoplenty_log_stool"
+        }
+      ]
+    }
+  ]
+}

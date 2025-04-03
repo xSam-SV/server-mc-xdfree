@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "name": "mangrove_twilightforest_kitchen_drawer",
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:mangrove_twilightforest_kitchen_drawer"
+        }
+      ]
+    }
+  ]
+}

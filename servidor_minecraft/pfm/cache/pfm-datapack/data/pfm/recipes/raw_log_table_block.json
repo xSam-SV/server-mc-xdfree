@@ -1,0 +1,49 @@
+{
+  "type": "pfm:dynamic_furniture",
+  "group": "tables",
+  "supportedVariants": [
+    "minecraft:oak",
+    "minecraft:bamboo",
+    "minecraft:spruce",
+    "minecraft:birch",
+    "minecraft:jungle",
+    "minecraft:acacia",
+    "minecraft:cherry",
+    "minecraft:dark_oak",
+    "minecraft:mangrove",
+    "minecraft:crimson",
+    "minecraft:warped",
+    "twilightforest:twilight_oak",
+    "twilightforest:canopy",
+    "twilightforest:mangrove",
+    "twilightforest:dark",
+    "twilightforest:time",
+    "twilightforest:transformation",
+    "twilightforest:mining",
+    "twilightforest:sorting",
+    "biomesoplenty:fir",
+    "biomesoplenty:pine",
+    "biomesoplenty:maple",
+    "biomesoplenty:redwood",
+    "biomesoplenty:mahogany",
+    "biomesoplenty:jacaranda",
+    "biomesoplenty:palm",
+    "biomesoplenty:willow",
+    "biomesoplenty:dead",
+    "biomesoplenty:magic",
+    "biomesoplenty:umbran",
+    "biomesoplenty:hellbark",
+    "biomesoplenty:empyreal",
+    "iceandfire:dreadwood"
+  ],
+  "ingredients": {
+    "vanillaIngredients": [],
+    "variantChildren": {
+      "secondary": 3
+    }
+  },
+  "result": {
+    "outputClass": "RawLogTableBlock",
+    "count": 4
+  }
+}

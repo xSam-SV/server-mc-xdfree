@@ -1,0 +1,14 @@
+# Do not adjust the settings here. Use /revive settings ingame
+
+time: 60
+item: 'GOLDEN_APPLE'
+animation: true
+detection-range: 50
+mob-damage: true
+tombstone: true
+totem: false
+no-item: false
+permission: 'revive.admin'
+stealing-allowed: true
+blindness: true
+can-use-commands: false

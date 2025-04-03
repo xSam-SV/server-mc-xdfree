@@ -1,0 +1,19 @@
+- This is developer tool to generate a tree file from preset, it will use my void dimension to generate trees so it not affect to normal world.
+- First you need file name and directory of it, putting it and then use command [ /THT auto_gen start <loop> ]
+- Warning! this dimension highest Y is 400 so be careful about world height/lower cut the trees. You can change posY option for the position of tree.
+- Set generate speed too high is not recommended, since it can causes floating parts when gnerate in worldgen as a dead tree.
+- Also please don't close the world while generating trees, it may cause double trees generate at the same place, which can make the file go wrong.
+
+----------------------------------------------------------------------------------------------------
+
+file_name : unnamed
+directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/unnamed
+
+generate_speed : 1
+generate_speed_repeat : 1000
+generate_speed_tp : 20
+
+posY : 150
+chat_message : true
+
+----------------------------------------------------------------------------------------------------

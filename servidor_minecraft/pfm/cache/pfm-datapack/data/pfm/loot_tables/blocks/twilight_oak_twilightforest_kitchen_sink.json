@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "name": "twilight_oak_twilightforest_kitchen_sink",
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:twilight_oak_twilightforest_kitchen_sink"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "name": "warped_stone_unusualend_table_modern_dinner",
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:warped_stone_unusualend_table_modern_dinner"
+        }
+      ]
+    }
+  ]
+}

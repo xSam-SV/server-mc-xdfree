@@ -1,0 +1,54 @@
+# Here you can adjust any plugin-sent message. Use ColorCodes with &
+messages:
+
+  # Messages above the knocked player when an item is needed to revive
+  knocked-item:
+    line0: '&6Interact with [item]'
+    line1: '&6to revive!'
+
+  # Messages above the knocked player when no item is needed to revive
+  knocked-no-item:
+    line0: '&6Right click'
+    line1: '&6to revive!'
+
+  # Knocked players will see this message in their screen after getting knocked out
+  title:
+    title: '&cYou got knocked out!'
+    sub-title: '&4Get revived by someone or you bleed out.'
+
+  # Shows up in a knocked players action bar
+  action-bar: '&cYou will bleed out in'
+
+  # Wrong usage of the /revive settings command
+  wrong-usage: '&cWrong usage of the command /revive settings'
+
+  # When the player has to pick the reviving item by clicking on it in his inventory
+  select-new-revive-item: '&6[Revive] &bClick on an item in your inventory to select the new reviving item.'
+
+  # Appears in the Boss Bar. Player can surrender/die by sneaking
+  press-sneak: '&aNo player nearby. Press &6Sneak &ato die instantly'
+
+  # Appears in the Boss Bar. Nearby player around the knocked player -> Can't surrender
+  cant-press-sneak: '&4There is a player nearby!'
+
+  # Appears when a knocked player has died. Use [player] as a placeholder for the dead players name
+  # You can add multiple messages by just adding a new line here. Use the pattern: - 'message'
+  # You can also remove messages. Do it by removing the whole line with the message
+  # Every time a player dies, a random message out of here will be picked
+  player-died:
+    - '&cThe player &6[player] &cbled out.'
+    - '&6[player] &cdied'
+
+  # Appears when a player has been knocked out. Use [player] as a placeholder for the knocked players name
+  # You can add multiple messages by just adding a new line here. Use the pattern: - 'message'
+  # You can also remove messages. Do it by removing the whole line with the message
+  # Every time a player gets knocked, a random message out of here will be picked
+  player-knocked:
+    - '&7The player &6[player] &7has been knocked out.'
+    - '&6[player] &7knocked'
+
+  # When a knocked player is being teleported
+  knocked-teleport: '&cAn attempt has been made to teleport you. Knocked players cannot be teleported!'
+
+  # When a knocked player tries using a command when the options is disabled
+  knocked-command: '&cKnocked players cannot use any commands!'

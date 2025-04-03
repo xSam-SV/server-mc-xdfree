@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:bolok",
+    "twilightforest:block_and_chain"
+  ],
+  "incompatible": []
+}

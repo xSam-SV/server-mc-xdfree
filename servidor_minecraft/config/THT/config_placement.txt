@@ -1,0 +1,14 @@
+- This config auto apply the changes, so no need to stop the world.
+- Repair missing values by run this command [ /THT config repair ] or restart the world
+- If you change something in this config, you need to turn lock option to true to prevent it from replaced by new version.
+- [biome] is biome that tree can spawn in. Supported multiple biome IDs and biome tags. For advance, [@all] for all biomes, [@vanilla] for vanilla biomes, add [!] for if-not, add [&] for compulsion (if it's not then cancel all).
+- [ground_block] is block that tree can spawn on. Supported multiple block IDs and block tags. For advance, [@all] for all blocks, add [!] for if-not, add [&] for compulsion (if it's not then cancel all).
+- [rarity] is the main option for set how common of trees. Only supported number between 0 to 100 Higher make it more common. Set to 0 to disable it.
+- [min_distance] is the min distance in blocks between trees in the same species. Higher number make it more rare. Only work when the chunks around the other one is loading.
+- [group_chance] is a chance for trees to spawn nearby other in the same species, work good with the trees that have low rarity. Only supported number between 0 to 1
+- [dead_tree_chance] is a chance for trees to spawn as dead tree, no leaves and sometimes no twig or even become hollowed tree. Only supported number between 0 to 1
+- [dead_tree_level_min] is max level of dead tree. Useful for some trees such as coconut tree that use branch part as leaves. Only supported number between 1 to 5
+- [rotation] is where the trees randomly facing to. Set to number between 0 to 359 for manual rotation (mostly use in spikes). Set to 360 for random NWES rotation.
+- [mirrored] is option to swap side of trees from left to right (mirror). Set to 1 or 2 for manual mirrored. Set to 0 for random mirrored.
+
+----------------------------------------------------------------------------------------------------

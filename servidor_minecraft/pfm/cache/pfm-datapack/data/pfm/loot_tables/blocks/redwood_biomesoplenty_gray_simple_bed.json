@@ -1,0 +1,24 @@
+{
+  "pools": [
+    {
+      "name": "redwood_biomesoplenty_gray_simple_bed",
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "pfm:redwood_biomesoplenty_gray_simple_bed",
+              "properties": {
+                "part": "head"
+              }
+            }
+          ],
+          "name": "pfm:redwood_biomesoplenty_gray_simple_bed"
+        }
+      ]
+    }
+  ]
+}

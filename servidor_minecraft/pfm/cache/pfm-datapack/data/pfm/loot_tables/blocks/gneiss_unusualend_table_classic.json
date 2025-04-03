@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "name": "gneiss_unusualend_table_classic",
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:gneiss_unusualend_table_classic"
+        }
+      ]
+    }
+  ]
+}
